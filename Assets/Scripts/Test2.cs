@@ -6,11 +6,12 @@ public class Test2 : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        Debug.Log("Test2");
+		
 	}
 	
 	// Update is called once per frame
 	void Update () {
         Debug.Log("Test2B");
+        Debug.Log("Test2B2");
 	}
 }
